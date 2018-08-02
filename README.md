@@ -19,6 +19,6 @@
    - Used **Bootbox.js** for making the application device screen independent 
    - Designed by using **MVC(Model-View-Component)** methodology
    - Designed **ASP.NET RestAPI** for manipulating data to the database and the exchanged data is in **JSON** format
-   - Followed **Code-first migartions** in designing the database
+   - Followed **Entity-Framework Code-first migartions** in designing the database
    - Used **JQuery and ajax** for calling the API and for displaying Information from the API
    - Used **DataTables Plugin** for pagenation, searching and sorting of the information
